@@ -1,0 +1,29 @@
+img {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.maintext {
+  color: white;
+  font-size: 2vw;
+}
+
+body {
+  background: black;
+}
+
+li:nth-child(odd) {
+  color: #cce5ff;
+}
+
+li:nth-child(even){
+  color: #80bfff;
+}
