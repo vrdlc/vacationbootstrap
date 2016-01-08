@@ -16,6 +16,10 @@ p {
   font-size: 2vw;
 }
 
+.links {
+  font-size: 20px
+}
+
 body {
   background: black;
 }
@@ -26,4 +30,11 @@ li:nth-child(odd) {
 
 li:nth-child(even){
   color: #80bfff;
+}
+
+.modalbutton {
+  margin-left: 14px;
+  margin-bottom: 15px;
+  padding-left: 10px;
+  padding-bottom: 10px;
 }
